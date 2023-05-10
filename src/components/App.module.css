@@ -1,0 +1,20 @@
+.primary-title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.secondary-title {
+    font-size: 24px;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+    gap: 200px;   
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
